@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mpesa-integration", {data:[{}],fetch:{},mutations:void 0});
